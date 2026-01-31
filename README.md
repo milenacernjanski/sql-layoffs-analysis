@@ -118,3 +118,6 @@ SELECT *
 FROM Company_Year_Rank
 WHERE Ranking <= 5
 ORDER BY years, Ranking;
+
+![Ranking Query Results](ranking-query.png)
+
